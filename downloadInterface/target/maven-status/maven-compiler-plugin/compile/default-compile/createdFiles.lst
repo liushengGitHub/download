@@ -1,0 +1,9 @@
+liusheng\downloadInterface\Plugin.class
+liusheng\downloadInterface\SearchPage.class
+liusheng\downloadInterface\SearchLabel.class
+liusheng\downloadInterface\SearchPageParser.class
+liusheng\downloadInterface\SearchItem.class
+liusheng\downloadInterface\SearchPluginHolder.class
+liusheng\downloadInterface\Parser.class
+liusheng\downloadInterface\SearchPlugin.class
+liusheng\downloadInterface\DownloaderController.class
